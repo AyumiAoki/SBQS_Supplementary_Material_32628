@@ -1,5 +1,3 @@
-# SBQS_Supplementary_Material_32628
-
 ## Supplementary Material
 
 This repository contains the supplementary material for the article:
