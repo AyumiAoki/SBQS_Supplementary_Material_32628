@@ -1,4 +1,4 @@
-## Supplementary Material
+# Supplementary Material
 
 This repository contains the supplementary material for the article:
 
@@ -18,7 +18,7 @@ Contains the informed consent form presented to the participants. The document d
 
 Contain the anonymized transcripts of the semi-structured interviews. Each file corresponds to one participant and preserves the participant identifiers used in the article.
 
-#### 📊 Qualitative Analysis.PDF
+#### 📊 Qualitative Analysis.pdf
 
 Contains the qualitative analysis conducted in the study, including interview excerpts, codes, themes, and their relationships with the six principles of the AI-Native Manifesto. The file supports the traceability between participants’ reports, the reported findings, and the analytical structure used in the article.
 
